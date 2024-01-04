@@ -1,4 +1,6 @@
 * In this repo, you will kind the Tableau workbook of 3 Dashboards and Worksheets of Different Kinds of Plots and Graphs
+* Please remove the .icloud extension while downloading the files and open twbx files with the help of Tableau
+  
 # 1. SuperStore Sales Dashboard:
 <img width="1230" alt="SuperStore Dashboard" src="https://github.com/RitikaxG/Tableau/assets/97238841/99a4ea84-6e5e-4cc5-ae6c-6c245e02b0ee">
 
